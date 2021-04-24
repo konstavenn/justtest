@@ -7,3 +7,6 @@ Im just trying to add some text here
 
 
 Changes in another branch "new"
+
+
+Text from branch try
