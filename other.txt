@@ -3,3 +3,4 @@ Wonder how this works
 
 Adding more text here
 
+Changes in another branch "new"
