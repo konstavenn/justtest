@@ -230,3 +230,6 @@ def doDFS(s,g,bound,goaltest,h,path):
 ### the interfaces to these intact. (We need to check doDFS
 ### separately because otherwise you could plug in your A*
 ### implementation as an IDA* impersonation. ;-) )
+def printForKonsta():
+    print("This is the only change to the file")
+
